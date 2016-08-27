@@ -1,2 +1,2 @@
 # hexlet-bash
-Course: https://ru.hexlet.io/courses/git_base
+Course: https://ru.hexlet.io/courses/bash
